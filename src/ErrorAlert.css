@@ -1,0 +1,7 @@
+.error-alert {
+    position: relative;
+    top: 50vh;
+    display: flex;
+    justify-content: center;
+    color: red;
+}

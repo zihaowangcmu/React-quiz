@@ -1,0 +1,9 @@
+.complete-page {
+    width: 100%;
+    font-style: italic;
+    font-size: 20px;
+    position: absolute;
+    top: 15vh;
+    display: flex;
+    justify-content: center;
+}
